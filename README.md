@@ -1,4 +1,6 @@
-Tindog is a Bootstrap project I completed while working through the London App Brewery's Web Development course.
+Tindog is a Bootstrap project I completed while working through the London App Brewery's Web Development course, TinDog (Tinder, but for your fur babies), which offers dog owners the opportunity to help their dogs find love (with another dog) within the area 🐕🐕🐕🐕.
+
+This project is now completed and was achieved using the following tech stack: HTML,CSS and BOOTSTRAP.
 Here's the link to the Live Demo: https://heroic-monstera-8cd4b5.netlify.app/
 
 ![Screenshot (254)](https://user-images.githubusercontent.com/45429302/202673808-079169e1-ef12-4d17-8f8f-ee7b4fe8fabe.png)
